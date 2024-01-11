@@ -1,0 +1,10 @@
+
+.app {
+	max-width: 450px;
+	height: 700px;
+	margin: 10px auto;
+}
+
+.app h1 {
+	text-align: center;
+}
